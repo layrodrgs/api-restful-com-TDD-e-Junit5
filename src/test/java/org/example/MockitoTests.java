@@ -1,4 +1,4 @@
-package org.example;
+/*package org.example;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
@@ -27,4 +27,4 @@ public class MockitoTests {
         inOrder.verify(lista).add("");
 
     }
-}
+}*/
